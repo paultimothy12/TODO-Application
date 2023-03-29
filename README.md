@@ -1,5 +1,5 @@
 # TODO-Application
-Personal Project
+Personal Project - (5/22 - 6/22)
 
 UserName and Password entered on front end will be available on line 80
 fullstack-app/src/main/java/com/timothy/fullstackapp/jwt/JwtSecurityConfig.java
